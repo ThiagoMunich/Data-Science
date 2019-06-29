@@ -6,4 +6,4 @@ Para entender a análise feita nos dados, visite meu artigo no [LinkedIn](https:
 Para evitar erros, instalar a última versão do Anaconda.
 
 <h2>Autor</h2>
-- Thiago Munich 
+*Thiago Munich 
