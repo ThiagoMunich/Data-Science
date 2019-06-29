@@ -7,4 +7,4 @@ Para evitar erros, instalar a última versão do Anaconda.
 
 <h2>Autor</h2>
 
--Thiago Munich 
+Thiago Munich 
