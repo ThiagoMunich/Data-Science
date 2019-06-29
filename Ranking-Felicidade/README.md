@@ -4,3 +4,6 @@ Para entender a análise feita nos dados, visite meu artigo no [LinkedIn](https:
 
 <h2>Instalações</h2>
 Para evitar erros, instalar a última versão do Anaconda.
+
+<h2>Autor</h2>
+- Thiago Munich 
